@@ -1,0 +1,4 @@
+enum CaraCoroa {
+  cara,
+  coroa,
+}
