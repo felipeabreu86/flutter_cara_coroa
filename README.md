@@ -1,16 +1,53 @@
-# flutter_cara_coroa
+# Cara ou Coroa
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/felipeabreu86/flutter_cara_coroa/blob/main/LICENSE) 
 
-A new Flutter project.
+# Sobre o Projeto
 
-## Getting Started
+**Cara ou Coroa** é um projeto mobile cross-platform construído em Flutter voltado para o meu estudo pessoal relacionado a esta tecnologia.
 
-This project is a starting point for a Flutter application.
+A aplicação consiste em uma tela Home que irá passar aletoriamente Cara ou Coroa para a tela Resultado, que exibirá o resultado do jogo para o usuário. Neste app viso exemplificar a navegação de telas com passagem de parâmetros.
 
-A few resources to get you started if this is your first Flutter project:
+## Layout Mobile
+![Mobile 1](https://github.com/felipeabreu86/flutter_cara_coroa/blob/main/assets/screens/mobile1.png)
+![Mobile 2](https://github.com/felipeabreu86/flutter_cara_coroa/blob/main/assets/screens/mobile2.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Layout Web
+![Web 1](https://github.com/felipeabreu86/flutter_cara_coroa/blob/main/assets/screens/web1.png)
+![Web 2](https://github.com/felipeabreu86/flutter_cara_coroa/blob/main/assets/screens/web2.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Tecnologias Utilizadas
+- Flutter 2.2.3
+- Linguagem Dart
+
+# Funcionalidades
+- Tela Home
+- Jogo Cara ou Coroa
+
+# Como Executar o Projeto
+
+## Flutter
+Pré-requisitos: Flutter 2.2.3 ([como instalar](https://flutter.dev/docs/get-started/install "Como instalar o Flutter"))
+
+```bash
+# clonar repositório
+git clone https://github.com/felipeabreu86/flutter_cara_coroa.git
+
+# entrar na pasta do projeto
+cd flutter_cara_coroa
+
+# rodar o comando abaixo para obter as dependências do projeto
+flutter pub get
+
+# descobrir os dispositivos disponíveis para executar o app
+# copiar o ID do dispositivo para utilizá-lo no próximo comando 
+flutter devices
+
+# rodar o projeto no seu dispositivo
+flutter run -d <Device ID>
+```
+
+# Autor
+
+Felipe Abreu
+
+https://www.linkedin.com/in/feabreu/

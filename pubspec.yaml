@@ -1,5 +1,5 @@
 name: flutter_cara_coroa
-description: A new Flutter project.
+description: A aplicação consiste em uma tela Home que irá passar aletoriamente Cara ou Coroa para a tela Resultado, que exibirá o resultado do jogo para o usuário.
 
 # The following line prevents the package from being accidentally published to
 # pub.dev using `pub publish`. This is preferred for private packages.
